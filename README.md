@@ -10,3 +10,5 @@ Code is only for studying regular expressions and crawlers for other purposes.
 代码里所有接口都已经失效，因为代码是几年前的，现在学校已经换了接口了。
 
 代码仅供学习正则表达式以及爬虫，勿用于其它用途。
+
+environment: Python 2.x
