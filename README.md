@@ -5,7 +5,7 @@ All the interfaces in the code have been disabled because the code was years ago
 
 Code is only for studying regular expressions and crawlers for other purposes.
 
-用这个代码提醒自己以前的代码写得非常不好看，同版本的还有个抢客的，但电脑里找不到源代码了所以就不上传了。
+用这个代码提醒自己以前的代码写得非常不好看，同版本的还有个抢课的，但电脑里找不到源代码了所以就不上传了。
 
 代码里所有接口都已经失效，因为代码是几年前的，现在学校已经换了接口了。
 
